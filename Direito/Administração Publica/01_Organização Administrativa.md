@@ -25,3 +25,17 @@ A administração direta cheia de privilégios, então não atua notoriamente no
     * Não Onerarios 
     * Inaadubilidade
         * OBS: art, 98, 99, 100, 101 , 102 e 103 do CC
+
+### Administração Indireta
+* São: 
+    * Relevância a Segurança Nacional
+        * Exmpresas de fabricação de armas
+    * Relevância Publica
+        * EX: BB , Petrobras , Eltrobras , Embrae 
+    * Princípios Eficacia e Especialidade
+    * Autarquias 
+
+### Autarquias
+```
+São regulamentada por direito público, são autônomas e tem mesmo nível hierárquico das demais entidades, sempre criada por lei especifica. 
+```
