@@ -1,6 +1,8 @@
 # Estudos
 
-Esté é um Repositorio para Estudos. 
+## Esté é um Repositorio para Estudos Pessoal uso somente para eu aprender!!!
+## Ignore esse Repositorio! 
+
 Criado para fins de conhecimento em linguagem de programação! Python e Kotlin! [Uploading README.md…]()# Curso Grátis de Git e GitHub
 Material do **Curso de Git e GitHub**, disponível gratuitamente no canal do *YouTube*.
 

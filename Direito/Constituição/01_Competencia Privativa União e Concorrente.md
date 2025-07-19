@@ -5,3 +5,6 @@ Para que exista delegação de estados ou município sobre uma competência priv
 EX: Direito do Trabalho: mediante uma lei completar pode da o poder do estado legislar sobre o piso salarial de uma determinada categoria.
 ```
 ![Competencia Privativa x Concorrente](img/compPrivativaConcorrente.png)
+
+![Competencia Privativa](img/comp02.png)
+![Competencia Concorrente](img/compConcorrent.png)
